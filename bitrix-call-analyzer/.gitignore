@@ -1,0 +1,5 @@
+/data/*.json
+/data/*.sqlite
+/data/*.log
+/vendor/
+/config/app.local.php
