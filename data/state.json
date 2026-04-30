@@ -1,0 +1,11 @@
+{
+    "webhook": {
+        "deals": {
+            "2": {
+                "transcript_hash": "356a192b7913b04c54574d18c28d46e6395428ab",
+                "last_status": "no_match",
+                "updated_at": "2026-04-30T09:01:16+00:00"
+            }
+        }
+    }
+}
